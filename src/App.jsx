@@ -1,7 +1,9 @@
 import "./App.css";
+import GroceriesAppContainer from "./Components/GroceriesAppContainer";
 
+// Main app component
 function App() {
-  return <>{/* Add your code here! */}</>;
+  return <GroceriesAppContainer />;
 }
 
 export default App;
